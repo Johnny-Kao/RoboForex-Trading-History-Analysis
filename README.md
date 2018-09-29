@@ -17,4 +17,4 @@ Example trading history:report_1538067829_example.xls
 
 Example result:
 
-
+![Example Result](https://github.com/Johnny-Kao/RoboForex-Trading-History-Analysis/blob/master/Img/example.png)
